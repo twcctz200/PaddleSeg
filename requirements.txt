@@ -6,3 +6,4 @@ filelock
 scipy
 prettytable
 sklearn == 0.0
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
