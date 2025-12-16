@@ -3,3 +3,4 @@ pymatting
 scikit-image
 numba
 opencv-python
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
