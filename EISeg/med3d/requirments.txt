@@ -1,2 +1,3 @@
 SimpleITK
 paddleseg
+filelock>=3.20.1 # not directly required, pinned by Snyk to avoid a vulnerability
